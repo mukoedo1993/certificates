@@ -1,2 +1,2 @@
 # certificates
-A collection of my certificates.
+A collection of my NASA day certificate.
